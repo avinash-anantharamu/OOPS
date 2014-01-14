@@ -43,42 +43,7 @@ void display()
 	glutBitmapCharacter(GLUT_BITMAP_8_BY_13,'<');
 	glutBitmapCharacter(GLUT_BITMAP_8_BY_13,'f');
 
-	glColor3f(0.3,0.6,0.6);
-		glRasterPos2d(-50,250);
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'Q');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'U');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'E');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'U');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'E');
-				
-	glColor3f(1.0,0.0,0.0);
-		glRasterPos2d(130,-250);
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'B');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'y');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,' ');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'A');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'M');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'I');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'T');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'H');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,' ');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'D');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,' ');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24,'K');
-		
-
-		glRasterPos2d(130,-270);
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'a');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'v');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'i');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'n');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'a');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'s');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'h');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,' ');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,'a');
-		glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_10,' ');
-
+	
 
 	if(pop==1)
 	{
